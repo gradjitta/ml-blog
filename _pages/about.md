@@ -4,10 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+### Hello world! 👋 This is [Aditya](https://aditya.me)
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+- 🔭 I’m currently working on text summarization models
+- 🌱 I’m currently learning Robotics Software Engineering (in Udacity)
+- 💬 Ask me about NLP and Deep RL
